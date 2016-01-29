@@ -1,0 +1,3 @@
+vhdl isim_temp "BinaryCAM_Cell.vhd"
+vhdl isim_temp "CAM_Row.vhd"
+vhdl isim_temp "BCAM_tb.vhd"

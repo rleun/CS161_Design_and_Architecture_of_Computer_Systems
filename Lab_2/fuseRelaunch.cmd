@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/csmajs/rleun005/Desktop/Lab_2/my_BCD_ALU_tb_isim_beh.exe" -prj "/home/csmajs/rleun005/Desktop/Lab_2/my_BCD_ALU_tb_beh.prj" "work.my_BCD_ALU_tb" 

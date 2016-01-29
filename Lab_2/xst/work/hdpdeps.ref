@@ -1,0 +1,6 @@
+V3 3
+FL /home/csmajs/rleun005/Desktop/Lab_2/my_BCD_ALU.vhd 2015/01/30.11:22:29 P.68d
+EN work/my_alu 1422645767 FL /home/csmajs/rleun005/Desktop/Lab_2/my_BCD_ALU.vhd \
+      PB ieee/std_logic_1164 1370735607 PB ieee/std_logic_arith 1370735608
+AR work/my_alu/Behavioral 1422645768 \
+      FL /home/csmajs/rleun005/Desktop/Lab_2/my_BCD_ALU.vhd EN work/my_alu 1422645767

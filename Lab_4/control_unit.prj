@@ -1,0 +1,2 @@
+vhdl work "cpu_constant_library.vhd"
+vhdl work "control_unit.vhd"
